@@ -47,5 +47,5 @@ This project is open for further development. Here are some ideas for future imp
 - [ ] Implement a feature to ignore certain file types or directories
 - [ ] Provide an option to save results to a file
 
-## Licence
+## ⇁ Licence
 Distributed under the MIT License. See LICENSE for more information.
